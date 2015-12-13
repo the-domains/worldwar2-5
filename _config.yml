@@ -1,7 +1,7 @@
 name: WorldWar2.5
 favicon: null
-layout_spectrum: 0.456170498393476
-typography_spectrum: 0.4482115241698921
+layout_spectrum: 1
+typography_spectrum: 0.67626
 cta:
   domain: null
   bucket: null
