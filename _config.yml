@@ -1,0 +1,28 @@
+name: WorldWar2.5
+favicon: null
+layout_spectrum: 0.456170498393476
+typography_spectrum: 0.4482115241698921
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.020205760607495904
+  lightness: 0.28775203810073435
+  saturation: 0.0658496511168778
+  rhythmicContrast: 0.20515561755746603
+purpose: []
